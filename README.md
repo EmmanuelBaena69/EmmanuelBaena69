@@ -15,7 +15,7 @@
 - 🌐 Developing web applications with an eye for design and functionality.
 - 🤝 Collaborating with others to create amazing projects.
 
-- 🌱 I’m currently learning **React, node.js, express.js**
+- 🌱 I’m currently learning **C#, .Net, ASP.NET, API Rest, LINQ**
 
 - ⚡ Fun fact **I'm a work robot**
 
